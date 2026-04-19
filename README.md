@@ -13,7 +13,7 @@ Hound是一个项目系列的名称，具体意义嘛。。。暂时不详qwq
 - Frank-Steven.Github.io：我的hexo博客，有一些比较老旧的文章，很久没有更新了，以后会修缮成Hound的门户页面（也许
 - Chatter/LibreChat：本想做一个好看的P2P聊天器（IPMessenger太古典了），但后来云湖出了，搁置了（就当是积累WPF和electron经验理论）
 ### 爱好
-绘画，羽毛球，拟人动物，音游，哲学
+绘画，羽毛球，拟人动物，音游，MC（不善杀伐），哲学
 ### 技能
 熟的：C/C++，JavaScript，HTML，CSS、python
 不熟的：TypeScript、Java、C#、Rust、Nix、scala、lisp
