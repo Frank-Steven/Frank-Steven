@@ -59,7 +59,7 @@ Hound is a project series. What it actually *means*… well, that’s a secret f
 
 ## 🟡 小项目 / Small Projects  
 
-- **Hound Startupd" – 轻量化 Windows 用户启动脚本管理器。
+- **Hound Startupd** – 轻量化 Windows 用户启动脚本管理器。
   Lightweight Windows user startup script manager.
 
 - **GenshinImpact** – 元旦在班上做的抽奖程序，单文件，课堂轻松部署。  
