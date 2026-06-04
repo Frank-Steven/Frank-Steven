@@ -9,10 +9,10 @@ Hound is a project series. What it actually *means*… well, that’s a secret f
 
 - **HoundWhiteboard**  
   新概念白板应用，充满很多奇怪（但合理）的想法。  
-  技术栈：Electron + React  
+  技术栈：Tauri + React  
   我的主打项目，也是强迫症用户的梦想应用。如果感兴趣可以联系我（不过我比较忙，不一定会秒回）。仓库 Pin 在下方。  
   A new-concept whiteboard app full of quirky (but sensible) ideas.  
-  Tech stack: Electron + React  
+  Tech stack: Tauri + React  
   This is my main focus—a perfectionist’s playground. Feel free to reach out if interested (but I might not respond immediately). Repo pinned below.  
 
 ---
@@ -59,7 +59,7 @@ Hound is a project series. What it actually *means*… well, that’s a secret f
 
 ## 🟡 小项目 / Small Projects  
 
-- **Hound Startupd** – 轻量化 Windows 用户启动脚本管理器。
+- **Hound Startupd** – 轻量化 Windows 用户启动脚本管理器。  
   Lightweight Windows user startup script manager.
 
 - **GenshinImpact** – 元旦在班上做的抽奖程序，单文件，课堂轻松部署。  
